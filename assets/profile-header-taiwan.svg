@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="285" viewBox="0 0 1120 285" role="img" aria-labelledby="title description">
+  <title id="title">Rainbow</title>
+  <desc id="description">A light editorial profile header with the Taiwan flag beside the location.</desc>
+  <rect width="1120" height="285" fill="#ffffff" />
+  <text x="28" y="55" fill="#0969da" font-family="Menlo, Consolas, monospace" font-size="16" letter-spacing="1">@RainbowCandyX</text>
+  <text x="24" y="151" fill="#1f2328" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="800" letter-spacing="-5">Rainbow</text>
+  <text x="28" y="200" fill="#57606a" font-family="Arial, Helvetica, sans-serif" font-size="25">C++ Engineer / Kernel Development Engineer</text>
+  <g stroke="#d0d7de" stroke-width="1">
+    <path d="M 690 37 H 1092 M 690 84 H 1092 M 690 131 H 1092 M 690 178 H 1092 M 690 225 H 1092" />
+    <path d="M 28 264 H 1092" />
+  </g>
+  <g fill="#57606a" font-family="Menlo, Consolas, monospace" font-size="13" letter-spacing="2">
+    <text x="690" y="67">LOCATION</text>
+    <text x="690" y="114">SINCE</text>
+    <text x="690" y="161">FOCUS</text>
+    <text x="690" y="208">STACK</text>
+  </g>
+  <g transform="translate(826 47)">
+    <rect width="30" height="20" fill="#fe0000" />
+    <rect width="15" height="10" fill="#000095" />
+    <polygon points="0.00,-4.25 0.67,-2.51 2.12,-3.68 1.84,-1.84 3.68,-2.13 2.51,-0.67 4.25,0.00 2.51,0.67 3.68,2.12 1.84,1.84 2.12,3.68 0.67,2.51 0.00,4.25 -0.67,2.51 -2.12,3.68 -1.84,1.84 -3.68,2.13 -2.51,0.67 -4.25,0.00 -2.51,-0.67 -3.68,-2.13 -1.84,-1.84 -2.13,-3.68 -0.67,-2.51" transform="translate(7.5 5)" fill="#ffffff" />
+    <circle cx="7.5" cy="5" r="1.65" fill="#ffffff" />
+    <rect width="30" height="20" fill="none" stroke="#d0d7de" stroke-width="0.7" />
+  </g>
+  <g fill="#1f2328" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    <text x="867" y="67">Taiwan</text>
+    <text x="826" y="114">2017</text>
+    <text x="826" y="161">Desktop / Systems</text>
+    <text x="826" y="208">C++ / Qt / Rust</text>
+  </g>
+</svg>
